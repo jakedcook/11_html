@@ -1,11 +1,11 @@
 body, html{
     height: 100%;
-    color:silver;
+    color:black;
 }
 .parallax {
     background-image: url("https://pbs.twimg.com/media/DqEXGXJWoAAHKYs?format=jpg&name=large");
 
-    height: 100%;
+    height: auto;
 
     min-height: 100vh;
 
