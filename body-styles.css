@@ -1,0 +1,17 @@
+body, html{
+    height: 100%;
+    color:black;
+}
+.parallax {
+    background-image: url("https://pbs.twimg.com/media/DqEXGXJWoAAHKYs?format=jpg&name=large");
+
+    height: auto;
+
+    min-height: 100vh;
+
+
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
